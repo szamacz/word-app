@@ -1,18 +1,25 @@
 const express = require('express');
-const fs = require('fs');
 const path = require('path');
+const fs = require('fs');
 
 const app = express();
 const port = 3000;
 
-app.use(express.static('public'));
-app.use(express.json());
+// Serve static files from the "public" directory
+app.use(express.static(path.join(__dirname, 'public')));
 
-app.get('/words', (req, res) => {
-  const words = JSON.parse(fs.readFileSync(path.join(__dirname, 'words.json'), 'utf8'));
+// Simulate the Vercel serverless function for /api/words
+app.get('/api/words', (req, res) => {
+  const wordsPath = path.join(__dirname, 'words.json');
+  const words = JSON.parse(fs.readFileSync(wordsPath, 'utf8'));
   res.json(words);
 });
 
+// Serve the index.html file for all other routes
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
 app.listen(port, () => {
-  console.log(`Server is running on http://localhost:${port}`);
+  console.log(`App running at http://localhost:${port}`);
 });
