@@ -1,0 +1,17 @@
+[
+    {"key": "wake up", "value": "budzić sie"},
+    {"key": "get up", "value": "wstawać"},
+    {"key": "get dressed", "value": "ubierać sie"},
+    {"key": "get undressed", "value": "rozbierać sie"},
+    {"key": "put on", "value": "zakładać"},
+    {"key": "take off", "value": "zdejmować"},
+    {"key": "do homework", "value": "odrabiać pracę domową"},
+    {"key": "go to bed", "value": "iść do łóżka"},
+    {"key": "catch the bus to school", "value": "łapać autobus szkolny"},
+    {"key": "have breakfast", "value": "jeść śniadanie"},
+    {"key": "have lunch", "value": "jeść obiad"},
+    {"key": "have dinner", "value": "jeść obiado kolację"},
+    {"key": "have a shower", "value": "brać prysznic"},
+    {"key": "have a bath", "value": "brać kąpiel"},
+    {"key": "wash", "value": "myć się"}
+  ]

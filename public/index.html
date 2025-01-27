@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nauka Słówek</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <h1>Nauka Słówek</h1>
+    <div id="quiz">
+      <div id="question"></div>
+      <input type="text" id="answer" placeholder="Wpisz tłumaczenie">
+      <button id="submit">Wyślij</button>
+      <div id="result"></div>
+      <div id="score"></div>
+      <div id="remaining"></div> <!-- Nowy element do wyświetlania liczby pozostałych pytań -->
+    </div>
+    <div id="summary" style="display: none;">
+      <h2>Podsumowanie</h2>
+      <p id="correct-answers"></p>
+      <p id="incorrect-answers"></p>
+      <p id="final-score"></p>
+      <button id="restart">Rozpocznij test na nowo</button>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
