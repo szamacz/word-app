@@ -18,13 +18,14 @@ document.addEventListener('DOMContentLoaded', () => {
   let questions = [];
   let incorrectAnswersList = []; // Przechowuje błędne odpowiedzi
 
-  fetch('/api/words')  // Changed from '/words' to '/api/words'
+  fetch('/api/words')  // Poprawny endpoint
     .then(response => response.json())
     .then(data => {
       words = data;
       generateQuestions();
       displayQuestion();
-    });
+    })
+    .catch(error => console.error('Błąd podczas ładowania słówek:', error));
 
   function generateQuestions() {
     words.forEach(word => {
