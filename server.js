@@ -10,7 +10,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Simulate the Vercel serverless function for /api/words
 app.get('/api/words', (req, res) => {
-  const wordsPath = path.join(__dirname, 'words.json');
+  const wordsPath = path.join(__dirname, 'api/words.json');
   const words = JSON.parse(fs.readFileSync(wordsPath, 'utf8'));
   res.json(words);
 });
