@@ -1,4 +1,8 @@
 import words from './data/words.json';
+import { inject } from '@vercel/analytics';
+
+// Initialize Vercel Analytics
+inject();
 
 document.addEventListener('DOMContentLoaded', () => {
     const questionElement = document.getElementById('question');
