@@ -1,63 +1,58 @@
 [
-    {
-      "key": "wake up",
-      "value": "budzić sie"
-    },
-    {
-      "key": "get up",
-      "value": "wstawać"
-    },
-    {
-      "key": "get dressed",
-      "value": "ubierać sie"
-    },
-    {
-      "key": "get undressed",
-      "value": "rozbierać sie"
-    },
-    {
-      "key": "put on",
-      "value": "zakładać"
-    },
-    {
-      "key": "take off",
-      "value": "zdejmować"
-    },
-    {
-      "key": "do homework",
-      "value": "odrabiać pracę domową"
-    },
-    {
-      "key": "go to bed",
-      "value": "iść do łóżka"
-    },
-    {
-      "key": "catch the bus to school",
-      "value": "łapać autobus szkolny"
-    },
-    {
-      "key": "have breakfast",
-      "value": "jeść śniadanie"
-    },
-    {
-      "key": "have lunch",
-      "value": "jeść obiad"
-    },
-    {
-      "key": "have dinner",
-      "value": "jeść obiado kolację"
-    },
-    {
-      "key": "have a shower",
-      "value": "brać prysznic"
-    },
-    {
-      "key": "have a bath",
-      "value": "brać kąpiel"
-    },
-    {
-      "key": "wash",
-      "value": "myć się"
-    }
-  ]
-  
+  {
+    "key": "week",
+    "value": "tydzień"
+  },
+  {
+    "key": "day",
+    "value": "dzień"
+  },
+  {
+    "key": "monday",
+    "value": "poniedziałek"
+  },
+  {
+    "key": "tuesday",
+    "value": "wtorek"
+  },
+  {
+    "key": "wednesday",
+    "value": "środa"
+  },
+  {
+    "key": "thursday",
+    "value": "czwartek"
+  },
+  {
+    "key": "friday",
+    "value": "piątek"
+  },
+  {
+    "key": "saturday",
+    "value": "sobota"
+  },
+  {
+    "key": "sunday",
+    "value": "niedziela"
+  },
+  {
+    "key": "always",
+    "value": "zawsze"
+  },
+  {
+    "key": "often",
+    "value": "często"
+  },
+  {
+    "key": "sometimes",
+    "value": "czasami"
+  },
+  {
+    "key": "never",
+    "value": "nigdy"
+  },
+  {
+    "key": "every day",
+    "value": "każdego dnia"
+  }
+]
