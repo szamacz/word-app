@@ -1,58 +1,90 @@
 [
   {
-    "key": "week",
-    "value": "tydzień"
+    "key": "apple",
+    "value": "jabłko"
   },
   {
-    "key": "day",
-    "value": "dzień"
+    "key": "banana",
+    "value": "banan"
   },
   {
-    "key": "monday",
-    "value": "poniedziałek"
+    "key": "bean",
+    "value": "fasola"
   },
   {
-    "key": "tuesday",
-    "value": "wtorek"
+    "key": "bread",
+    "value": "chleb"
   },
   {
-    "key": "wednesday",
-    "value": "środa"
+    "key": "breakfast",
+    "value": "śniadanie"
   },
   {
-    "key": "thursday",
-    "value": "czwartek"
+    "key": "burger",
+    "value": "hamburger"
   },
   {
-    "key": "friday",
-    "value": "piątek"
+    "key": "cake",
+    "value": "ciasto"
   },
   {
-    "key": "saturday",
-    "value": "sobota"
+    "key": "candy",
+    "value": "cukierek"
   },
   {
-    "key": "sunday",
-    "value": "niedziela"
+    "key": "carrot",
+    "value": "marchewka"
   },
   {
-    "key": "always",
-    "value": "zawsze"
+    "key": "chicken",
+    "value": "kurczak"
   },
   {
-    "key": "often",
-    "value": "często"
+    "key": "chips",
+    "value": "czipsy"
   },
   {
-    "key": "sometimes",
-    "value": "czasami"
+    "key": "chocolate",
+    "value": "czekolada"
   },
   {
-    "key": "never",
-    "value": "nigdy"
+    "key": "coconut",
+    "value": "kokos"
   },
   {
-    "key": "every day",
-    "value": "każdego dnia"
+    "key": "dinner",
+    "value": "kolacja"
+  },
+  {
+    "key": "drink",
+    "value": "picie"
+  },
+  {
+    "key": "egg",
+    "value": "jajko"
+  },
+  {
+    "key": "eat",
+    "value": "jeść"
+  },
+  {
+    "key": "fish",
+    "value": "ryba"
+  },
+  {
+    "key": "food",
+    "value": "jedzenie"
+  },
+  {
+    "key": "fruit",
+    "value": "owoc"
+  },
+  {
+    "key": "grape",
+    "value": "winogrono"
+  },
+  {
+    "key": "ice cream",
+    "value": "lody"
   }
 ]
