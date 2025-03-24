@@ -8,83 +8,91 @@
     "value": "banan"
   },
   {
-    "key": "bean",
-    "value": "fasola"
+    "key": "juice",
+    "value": "sok"
   },
   {
-    "key": "bread",
-    "value": "chleb"
+    "key": "kiwi",
+    "value": "kiwi"
   },
   {
-    "key": "breakfast",
-    "value": "śniadanie"
+    "key": "lemon",
+    "value": "cytryna"
   },
   {
-    "key": "burger",
-    "value": "hamburger"
+    "key": "lime",
+    "value": "limonka"
   },
   {
-    "key": "cake",
+    "key": "lemonade",
+    "value": "lemoniada"
+  },
+  {
+    "key": "lunch",
+    "value": "obiad"
+  },
+  {
+    "key": "mango",
+    "value": "mango"
+  },
+  {
+    "key": "meat",
+    "value": "mięso"
+  },
+  {
+    "key": "meatballs",
+    "value": "klopsy"
+  },
+  {
+    "key": "milk",
+    "value": "mleko"
+  },
+  {
+    "key": "onion",
+    "value": "cebula"
+  },
+  {
+    "key": "orange",
+    "value": "pomarańcza"
+  },
+  {
+    "key": "pea",
+    "value": "groszek"
+  },
+  {
+    "key": "pear",
+    "value": "gruszka"
+  },
+  {
+    "key": "pie",
     "value": "ciasto"
   },
   {
-    "key": "candy",
-    "value": "cukierek"
+    "key": "pineapple",
+    "value": "ananas"
   },
   {
-    "key": "carrot",
-    "value": "marchewka"
+    "key": "potato",
+    "value": "ziemniak"
   },
   {
-    "key": "chicken",
-    "value": "kurczak"
+    "key": "rice",
+    "value": "ryż"
   },
   {
-    "key": "chips",
-    "value": "czipsy"
+    "key": "sausage",
+    "value": "parówka"
   },
   {
-    "key": "chocolate",
-    "value": "czekolada"
+    "key": "tomato",
+    "value": "pomidor"
   },
   {
-    "key": "coconut",
-    "value": "kokos"
+    "key": "water",
+    "value": "woda"
   },
   {
-    "key": "dinner",
-    "value": "kolacja"
-  },
-  {
-    "key": "drink",
-    "value": "picie"
-  },
-  {
-    "key": "egg",
-    "value": "jajko"
-  },
-  {
-    "key": "eat",
-    "value": "jeść"
-  },
-  {
-    "key": "fish",
-    "value": "ryba"
-  },
-  {
-    "key": "food",
-    "value": "jedzenie"
-  },
-  {
-    "key": "fruit",
-    "value": "owoc"
-  },
-  {
-    "key": "grape",
-    "value": "winogrono"
-  },
-  {
-    "key": "ice cream",
-    "value": "lody"
+    "key": "watermelon",
+    "value": "arbuz"
   }
 ]
