@@ -1,98 +1,94 @@
 [
   {
-    "key": "apple",
-    "value": "jabłko"
+    "key": "behind",
+    "value": "za"
   },
   {
-    "key": "banana",
-    "value": "banan"
+    "key": "between",
+    "value": "pomiędzy"
   },
   {
-    "key": "juice",
-    "value": "sok"
+    "key": "bookshop",
+    "value": "księgarnia"
   },
   {
-    "key": "kiwi",
-    "value": "kiwi"
+    "key": "end",
+    "value": "koniec"
   },
   {
-    "key": "lemon",
-    "value": "cytryna"
+    "key": "here",
+    "value": "tu"
   },
   {
-    "key": "lime",
-    "value": "limonka"
+    "key": "in",
+    "value": "w"
   },
   {
-    "key": "lemonade",
-    "value": "lemoniada"
+    "key": "in front of",
+    "value": "przed"
   },
   {
-    "key": "lunch",
-    "value": "obiad"
+    "key": "on",
+    "value": "na"
   },
   {
-    "key": "mango",
-    "value": "mango"
+    "key": "park",
+    "value": "park"
   },
   {
-    "key": "meat",
-    "value": "mięso"
+    "key": "playground",
+    "value": "plac zabaw"
   },
   {
-    "key": "meatballs",
-    "value": "klopsy"
+    "key": "shop",
+    "value": "sklep"
   },
   {
-    "key": "milk",
-    "value": "mleko"
+    "key": "street",
+    "value": "ulica"
   },
   {
-    "key": "onion",
-    "value": "cebula"
+    "key": "there",
+    "value": "tam"
   },
   {
-    "key": "orange",
-    "value": "pomarańcza"
+    "key": "under",
+    "value": "pod"
   },
   {
-    "key": "pea",
-    "value": "groszek"
+    "key": "zoo",
+    "value": "zoo"
   },
   {
-    "key": "pear",
-    "value": "gruszka"
+    "key": "cinema",
+    "value": "kino"
   },
   {
-    "key": "pie",
-    "value": "ciasto"
+    "key": "sports centre",
+    "value": "centrum sportowe"
   },
   {
-    "key": "pineapple",
-    "value": "ananas"
+    "key": "hospital",
+    "value": "szpital"
   },
   {
-    "key": "potato",
-    "value": "ziemniak"
+    "key": "library",
+    "value": "biblioteka"
   },
   {
-    "key": "rice",
-    "value": "ryż"
+    "key": "bus station",
+    "value": "przystanek autobusowy"
   },
   {
-    "key": "sausage",
-    "value": "parówka"
+    "key": "swimming pool",
+    "value": "basen"
   },
   {
-    "key": "tomato",
-    "value": "pomidor"
+    "key": "market",
+    "value": "bazar"
   },
   {
-    "key": "water",
-    "value": "woda"
-  },
-  {
-    "key": "watermelon",
-    "value": "arbuz"
+    "key": "supermarket",
+    "value": "supermarket"
   }
 ]
