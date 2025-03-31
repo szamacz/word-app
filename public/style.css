@@ -8,10 +8,8 @@ body {
 
 #app {
   max-width: 800px;
-  /* Zwiększona szerokość */
   margin: 0 auto;
   padding: 40px;
-  /* Więcej miejsca wewnątrz kontenera */
   background-color: #fff;
   border-radius: 15px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -20,7 +18,6 @@ body {
 h1 {
   color: #4CAF50;
   font-size: 36px;
-  /* Większy nagłówek */
   margin-bottom: 30px;
 }
 
@@ -32,17 +29,11 @@ input,
 button {
   margin-top: 30px;
   padding: 15px 25px;
-  /* Większe paddingi */
   font-size: 24px;
-  /* Większe czcionki */
   border: 2px solid #ccc;
-  /* Grubsze obramowanie */
   border-radius: 10px;
-  /* Zaokrąglone rogi */
   width: 80%;
-  /* Szersze pola input i przyciski */
   max-width: 500px;
-  /* Maksymalna szerokość */
 }
 
 button {
@@ -56,17 +47,22 @@ button:hover {
   background-color: #45a049;
 }
 
+button:disabled {
+  background-color: #cccccc;
+  color: #666666;
+  cursor: not-allowed; 
+  opacity: 0.6; 
+}
+
 #result {
   margin-top: 30px;
   font-size: 28px;
-  /* Większa czcionka */
   font-weight: bold;
 }
 
 #score {
   margin-top: 30px;
   font-size: 28px;
-  /* Większa czcionka */
 }
 
 #summary {
@@ -76,12 +72,10 @@ button:hover {
 #summary h2 {
   color: #4CAF50;
   font-size: 32px;
-  /* Większy nagłówek podsumowania */
 }
 
 #summary p {
   font-size: 28px;
-  /* Większa czcionka w podsumowaniu */
   margin: 15px 0;
 }
 
@@ -89,9 +83,7 @@ button:hover {
   margin-top: 30px;
   background-color: #008CBA;
   font-size: 24px;
-  /* Większa czcionka przycisku restart */
   padding: 15px 30px;
-  /* Większy przycisk */
 }
 
 #restart:hover {

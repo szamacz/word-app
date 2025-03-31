@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const submitButton = document.getElementById('submit');
     const resultElement = document.getElementById('result');
     const scoreElement = document.getElementById('score');
-    const remainingElement = document.getElementById('remaining'); // Element do wyświetlania pozostałych pytań
+    const remainingElement = document.getElementById('remaining');
     const quizElement = document.getElementById('quiz');
     const summaryElement = document.getElementById('summary');
     const correctAnswersElement = document.getElementById('correct-answers');
@@ -21,15 +21,28 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentQuestionIndex = 0;
     let score = 0;
     let questions = [];
-    let incorrectAnswersList = []; // Przechowuje błędne odpowiedzi
+    let incorrectAnswersList = [];
 
     generateQuestions();
     displayQuestion();
 
+    submitButton.disabled = true;
+
+    answerInput.addEventListener('input', () => {
+        submitButton.disabled = answerInput.value.trim() === '';
+    });
+
+    answerInput.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter' && !submitButton.disabled) {
+            event.preventDefault(); // Prevent default form submission behavior
+            submitButton.click(); // Trigger the click event on the "Wyślij" button
+        }
+    });
+
     function generateQuestions() {
         words.forEach(word => {
-            questions.push({ type: 'en-pl', question: word.key, answer: word.value });
             questions.push({ type: 'pl-en', question: word.value, answer: word.key });
+            //questions.push({ type: 'en-pl', question: word.key, answer: word.value });
         });
         questions = shuffleArray(questions);
     }
@@ -40,20 +53,18 @@ document.addEventListener('DOMContentLoaded', () => {
             questionElement.textContent = `Przetłumacz: ${currentQuestion.question}`;
             resultElement.textContent = '';
             answerInput.value = '';
-            submitButton.disabled = false; // Włącz przycisk "Wyślij" dla nowego pytania
-            updateRemaining(); // Aktualizuj liczbę pozostałych pytań
+            submitButton.disabled = true; // Disable the button for the new question
+            updateRemaining();
         } else {
             showSummary();
         }
     }
 
-    // Funkcja do aktualizacji liczby pozostałych pytań
     function updateRemaining() {
         const remainingQuestions = questions.length - currentQuestionIndex;
         remainingElement.textContent = `Pozostało pytań: ${remainingQuestions}`;
     }
 
-    // Funkcja do usuwania polskich znaków specjalnych
     function removePolishChars(text) {
         return text
             .toLowerCase()
@@ -64,11 +75,11 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     submitButton.addEventListener('click', () => {
-        const userAnswer = removePolishChars(answerInput.value.trim()); // Usuń polskie znaki i zamień na małe litery
+        const userAnswer = removePolishChars(answerInput.value.trim());
         const currentQuestion = questions[currentQuestionIndex];
-        const correctAnswer = removePolishChars(currentQuestion.answer); // Usuń polskie znaki i zamień na małe litery
+        const correctAnswer = removePolishChars(currentQuestion.answer);
 
-        submitButton.disabled = true; // Wyłącz przycisk "Wyślij" po kliknięciu
+        submitButton.disabled = true;
 
         if (userAnswer === correctAnswer) {
             resultElement.textContent = 'Gratulacje, to jest poprawna odpowiedź!';
@@ -77,7 +88,6 @@ document.addEventListener('DOMContentLoaded', () => {
         } else {
             resultElement.textContent = `Niestety, to nie jest prawidłowa odpowiedź. Prawidłowa odpowiedź to: ${currentQuestion.answer}`;
             resultElement.className = 'incorrect';
-            // Dodaj błędną odpowiedź do listy
             incorrectAnswersList.push({
                 question: currentQuestion.question,
                 userAnswer: answerInput.value.trim(),
@@ -87,7 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         currentQuestionIndex++;
         updateScore();
-        updateRemaining(); // Aktualizuj liczbę pozostałych pytań
+        updateRemaining();
 
         if (currentQuestionIndex < questions.length) {
             setTimeout(() => {
@@ -117,7 +127,6 @@ document.addEventListener('DOMContentLoaded', () => {
         incorrectAnswersElement.textContent = `Błędne odpowiedzi: ${incorrectAnswers}`;
         finalScoreElement.textContent = `Wynik: ${score} punktów (${percentage}%)`;
 
-        // Dodajemy specjalny komunikat, jeśli wszystkie odpowiedzi są poprawne
         if (correctAnswers === totalQuestions) {
             const perfectScoreMessage = document.createElement('p');
             perfectScoreMessage.textContent = 'Brawo! Udzieliłeś poprawnie odpowiedzi na wszystkie pytania!';
@@ -127,7 +136,6 @@ document.addEventListener('DOMContentLoaded', () => {
             summaryElement.insertBefore(perfectScoreMessage, restartButton);
         }
 
-        // Wyświetl listę błędnych odpowiedzi
         if (incorrectAnswersList.length > 0) {
             const incorrectAnswersContainer = document.createElement('div');
             incorrectAnswersContainer.innerHTML = `
@@ -149,12 +157,12 @@ document.addEventListener('DOMContentLoaded', () => {
     restartButton.addEventListener('click', () => {
         currentQuestionIndex = 0;
         score = 0;
-        incorrectAnswersList = []; // Wyczyść listę błędnych odpowiedzi
+        incorrectAnswersList = [];
         questions = shuffleArray(questions);
         quizElement.style.display = 'block';
         summaryElement.style.display = 'none';
         updateScore();
-        updateRemaining(); // Zresetuj licznik pozostałych pytań
+        updateRemaining();
         displayQuestion();
     });
 
