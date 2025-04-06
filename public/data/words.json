@@ -1,94 +1,66 @@
 [
   {
-    "key": "behind",
-    "value": "za"
+    "key": "animal",
+    "value": "zwierze"
   },
   {
-    "key": "between",
-    "value": "pomiędzy"
+    "key": "bear",
+    "value": "niedzwiedz"
   },
   {
-    "key": "bookshop",
-    "value": "księgarnia"
+    "key": "bee",
+    "value": "pszczoła"
   },
   {
-    "key": "end",
-    "value": "koniec"
+    "key": "bird",
+    "value": "ptak"
   },
   {
-    "key": "here",
-    "value": "tu"
+    "key": "cat",
+    "value": "kot"
   },
   {
-    "key": "in",
-    "value": "w"
+    "key": "chicken",
+    "value": "kura"
   },
   {
-    "key": "in front of",
-    "value": "przed"
+    "key": "cow",
+    "value": "krowa"
   },
   {
-    "key": "on",
-    "value": "na"
+    "key": "crocodile",
+    "value": "krokodyl"
   },
   {
-    "key": "park",
-    "value": "park"
+    "key": "dog",
+    "value": "pies"
   },
   {
-    "key": "playground",
-    "value": "plac zabaw"
+    "key": "donkey",
+    "value": "osioł"
   },
   {
-    "key": "shop",
-    "value": "sklep"
+    "key": "duck",
+    "value": "kaczka"
   },
   {
-    "key": "street",
-    "value": "ulica"
+    "key": "elephant",
+    "value": "słoń"
   },
   {
-    "key": "there",
-    "value": "tam"
+    "key": "fish",
+    "value": "ryba"
   },
   {
-    "key": "under",
-    "value": "pod"
+    "key": "frog",
+    "value": "żaba"
   },
   {
-    "key": "zoo",
-    "value": "zoo"
+    "key": "giraffe",
+    "value": "żyrafa"
   },
   {
-    "key": "cinema",
-    "value": "kino"
-  },
-  {
-    "key": "sports centre",
-    "value": "centrum sportowe"
-  },
-  {
-    "key": "hospital",
-    "value": "szpital"
-  },
-  {
-    "key": "library",
-    "value": "biblioteka"
-  },
-  {
-    "key": "bus station",
-    "value": "przystanek autobusowy"
-  },
-  {
-    "key": "swimming pool",
-    "value": "basen"
-  },
-  {
-    "key": "market",
-    "value": "bazar"
-  },
-  {
-    "key": "supermarket",
-    "value": "supermarket"
+    "key": "goat",
+    "value": "koza"
   }
 ]
