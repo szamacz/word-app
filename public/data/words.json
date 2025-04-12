@@ -1,66 +1,90 @@
 [
   {
-    "key": "animal",
-    "value": "zwierze"
+    "key": "arm",
+    "value": "ręka"
   },
   {
-    "key": "bear",
-    "value": "niedzwiedz"
+    "key": "body",
+    "value": "ciało"
   },
   {
-    "key": "bee",
-    "value": "pszczoła"
+    "key": "ear",
+    "value": "ucho"
   },
   {
-    "key": "bird",
-    "value": "ptak"
+    "key": "eye",
+    "value": "oko"
   },
   {
-    "key": "cat",
-    "value": "kot"
+    "key": "face",
+    "value": "twarz"
   },
   {
-    "key": "chicken",
-    "value": "kura"
+    "key": "foot",
+    "value": "stopa"
   },
   {
-    "key": "cow",
-    "value": "krowa"
+    "key": "feet",
+    "value": "stopy"
   },
   {
-    "key": "crocodile",
-    "value": "krokodyl"
+    "key": "hair",
+    "value": "włosy"
   },
   {
-    "key": "dog",
-    "value": "pies"
+    "key": "hand",
+    "value": "dłoń"
   },
   {
-    "key": "donkey",
-    "value": "osioł"
+    "key": "head",
+    "value": "głowa"
   },
   {
-    "key": "duck",
-    "value": "kaczka"
+    "key": "leg",
+    "value": "noga"
   },
   {
-    "key": "elephant",
-    "value": "słoń"
+    "key": "mouth",
+    "value": "usta"
   },
   {
-    "key": "fish",
-    "value": "ryba"
+    "key": "nose",
+    "value": "nos"
   },
   {
-    "key": "frog",
-    "value": "żaba"
+    "key": "smile",
+    "value": "uśmiech"
   },
   {
-    "key": "giraffe",
-    "value": "żyrafa"
+    "key": "toothache",
+    "value": "ból zęba"
   },
   {
-    "key": "goat",
-    "value": "koza"
+    "key": "backache",
+    "value": "ból pleców"
+  },
+  {
+    "key": "stomachache",
+    "value": "ból brzucha"
+  },
+  {
+    "key": "headache",
+    "value": "ból głowy"
+  },
+  {
+    "key": "earache",
+    "value": "ból ucha"
+  },
+  {
+    "key": "temperature",
+    "value": "gorączka"
+  },
+  {
+    "key": "cold",
+    "value": "przeziębienie"
+  },
+  {
+    "key": "cough",
+    "value": "kaszel"
   }
 ]
