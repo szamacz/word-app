@@ -1,90 +1,98 @@
 [
   {
-    "key": "arm",
-    "value": "ręka"
+    "key": "hippo",
+    "value": "hipopotam"
   },
   {
-    "key": "body",
-    "value": "ciało"
+    "key": "horse",
+    "value": "koń"
   },
   {
-    "key": "ear",
-    "value": "ucho"
+    "key": "jellyfish",
+    "value": "meduza"
   },
   {
-    "key": "eye",
-    "value": "oko"
+    "key": "lizard",
+    "value": "jaszczurka"
   },
   {
-    "key": "face",
-    "value": "twarz"
+    "key": "monkey",
+    "value": "małpa"
   },
   {
-    "key": "foot",
-    "value": "stopa"
+    "key": "mouse",
+    "value": "mysz"
   },
   {
-    "key": "feet",
-    "value": "stopy"
+    "key": "pet",
+    "value": "zwierzak domowy"
   },
   {
-    "key": "hair",
-    "value": "włosy"
+    "key": "polar bear",
+    "value": "miś polarny"
   },
   {
-    "key": "hand",
-    "value": "dłoń"
+    "key": "sheep",
+    "value": "owca"
   },
   {
-    "key": "head",
-    "value": "głowa"
+    "key": "snake",
+    "value": "wąż"
   },
   {
-    "key": "leg",
-    "value": "noga"
+    "key": "spider",
+    "value": "pająk"
   },
   {
-    "key": "mouth",
-    "value": "usta"
+    "key": "tail",
+    "value": "ogon"
   },
   {
-    "key": "nose",
-    "value": "nos"
+    "key": "tiger",
+    "value": "tygrys"
   },
   {
-    "key": "smile",
-    "value": "uśmiech"
+    "key": "zebra",
+    "value": "zebra"
   },
   {
-    "key": "toothache",
-    "value": "ból zęba"
+    "key": "afternoon",
+    "value": "popołudnie"
   },
   {
-    "key": "backache",
-    "value": "ból pleców"
+    "key": "birthday",
+    "value": "urodziny"
   },
   {
-    "key": "stomachache",
-    "value": "ból brzucha"
+    "key": "clock",
+    "value": "zegar"
   },
   {
-    "key": "headache",
-    "value": "ból głowy"
+    "key": "day",
+    "value": "dzień"
   },
   {
-    "key": "earache",
-    "value": "ból ucha"
+    "key": "evening",
+    "value": "wieczór"
   },
   {
-    "key": "temperature",
-    "value": "gorączka"
+    "key": "morning",
+    "value": "rano"
   },
   {
-    "key": "cold",
-    "value": "przeziębienie"
+    "key": "night",
+    "value": "noc"
   },
   {
-    "key": "cough",
-    "value": "kaszel"
+    "key": "today",
+    "value": "dzisiaj"
+  },
+  {
+    "key": "watch",
+    "value": "zegarek"
+  },
+  {
+    "key": "year",
+    "value": "rok"
   }
 ]
