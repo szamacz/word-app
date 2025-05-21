@@ -1,98 +1,90 @@
 [
   {
-    "key": "hippo",
-    "value": "hipopotam"
+    "key": "music",
+    "value": "muzyka"
   },
   {
-    "key": "horse",
-    "value": "koń"
+    "key": "number",
+    "value": "liczba"
   },
   {
-    "key": "jellyfish",
-    "value": "meduza"
+    "key": "open",
+    "value": "otwierać"
   },
   {
-    "key": "lizard",
-    "value": "jaszczurka"
+    "key": "painting",
+    "value": "obraz"
   },
   {
-    "key": "monkey",
-    "value": "małpa"
+    "key": "pen",
+    "value": "długopis"
   },
   {
-    "key": "mouse",
-    "value": "mysz"
+    "key": "pencil",
+    "value": "ołówek"
   },
   {
-    "key": "pet",
-    "value": "zwierzak domowy"
+    "key": "picture",
+    "value": "obrazek"
   },
   {
-    "key": "polar bear",
-    "value": "miś polarny"
+    "key": "playground",
+    "value": "plac zabaw"
   },
   {
-    "key": "sheep",
-    "value": "owca"
+    "key": "poster",
+    "value": "plakat"
   },
   {
-    "key": "snake",
-    "value": "wąż"
+    "key": "read",
+    "value": "czytać"
   },
   {
-    "key": "spider",
-    "value": "pająk"
+    "key": "ruler",
+    "value": "linijka"
   },
   {
-    "key": "tail",
-    "value": "ogon"
+    "key": "school",
+    "value": "szkoła"
   },
   {
-    "key": "tiger",
-    "value": "tygrys"
+    "key": "sit",
+    "value": "siedzieć"
   },
   {
-    "key": "zebra",
-    "value": "zebra"
+    "key": "spell",
+    "value": "literować"
   },
   {
-    "key": "afternoon",
-    "value": "popołudnie"
+    "key": "stand",
+    "value": "stać"
   },
   {
-    "key": "birthday",
-    "value": "urodziny"
+    "key": "story",
+    "value": "historyjka"
   },
   {
-    "key": "clock",
-    "value": "zegar"
+    "key": "teacher",
+    "value": "nauczyciel"
   },
   {
-    "key": "day",
-    "value": "dzień"
+    "key": "tell",
+    "value": "powiedzieć"
   },
   {
-    "key": "evening",
-    "value": "wieczór"
+    "key": "understand",
+    "value": "rozumieć"
   },
   {
-    "key": "morning",
-    "value": "rano"
+    "key": "wall",
+    "value": "ściana"
   },
   {
-    "key": "night",
-    "value": "noc"
+    "key": "window",
+    "value": "okno"
   },
   {
-    "key": "today",
-    "value": "dzisiaj"
-  },
-  {
-    "key": "watch",
-    "value": "zegarek"
-  },
-  {
-    "key": "year",
-    "value": "rok"
+    "key": "write",
+    "value": "pisać"
   }
 ]
