@@ -1,90 +1,86 @@
 [
   {
-    "key": "music",
-    "value": "muzyka"
+    "key": "arm",
+    "value": "ręka"
   },
   {
-    "key": "number",
-    "value": "liczba"
+    "key": "beard",
+    "value": "broda"
   },
   {
-    "key": "open",
-    "value": "otwierać"
+    "key": "brilliant",
+    "value": "świetnie"
   },
   {
-    "key": "painting",
-    "value": "obraz"
+    "key": "chet this out",
+    "value": "sprawdź to"
   },
   {
-    "key": "pen",
-    "value": "długopis"
+    "key": "computer program",
+    "value": "program komputerowy"
   },
   {
-    "key": "pencil",
-    "value": "ołówek"
+    "key": "curly",
+    "value": "kręcony"
   },
   {
-    "key": "picture",
-    "value": "obrazek"
+    "key": "dark",
+    "value": "ciemny"
   },
   {
-    "key": "playground",
-    "value": "plac zabaw"
+    "key": "fair",
+    "value": "jasny"
   },
   {
-    "key": "poster",
-    "value": "plakat"
+    "key": "foot",
+    "value": "stopa"
   },
   {
-    "key": "read",
-    "value": "czytać"
+    "key": "gallery",
+    "value": "galeria"
   },
   {
-    "key": "ruler",
-    "value": "linijka"
+    "key": "grey",
+    "value": "szary"
   },
   {
-    "key": "school",
-    "value": "szkoła"
+    "key": "look like",
+    "value": "wyglądać jak"
   },
   {
-    "key": "sit",
-    "value": "siedzieć"
+    "key": "moustache",
+    "value": "wąsy"
   },
   {
-    "key": "spell",
-    "value": "literować"
+    "key": "mouth",
+    "value": "usta"
   },
   {
-    "key": "stand",
-    "value": "stać"
+    "key": "no way",
+    "value": "nie ma mowy"
   },
   {
-    "key": "story",
-    "value": "historyjka"
+    "key": "science museum",
+    "value": "muzeum nauki"
   },
   {
-    "key": "teacher",
-    "value": "nauczyciel"
+    "key": "summary",
+    "value": "podsumowanie"
   },
   {
-    "key": "tell",
-    "value": "powiedzieć"
+    "key": "top model",
+    "value": "top modelka"
   },
   {
-    "key": "understand",
-    "value": "rozumieć"
+    "key": "wavy",
+    "value": "faliste"
   },
   {
-    "key": "wall",
-    "value": "ściana"
+    "key": "screen",
+    "value": "ekran"
   },
   {
-    "key": "window",
-    "value": "okno"
-  },
-  {
-    "key": "write",
-    "value": "pisać"
+    "key": "straight",
+    "value": "prosty"
   }
 ]
