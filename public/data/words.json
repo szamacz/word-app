@@ -1,86 +1,103 @@
 [
   {
-    "key": "arm",
-    "value": "ręka"
+    "key": "fabulous",
+    "value": "wspaniały"
   },
   {
-    "key": "beard",
-    "value": "broda"
+    "key": "kindergarten",
+    "value": "przedszkole"
   },
   {
-    "key": "brilliant",
-    "value": "świetnie"
+    "key": "still",
+    "value": "ciągle"
   },
   {
-    "key": "check this out",
-    "value": "sprawdź to"
+    "key": "baby things",
+    "value": "zabawki dla małych dzieci"
   },
   {
-    "key": "computer program",
-    "value": "program komputerowy"
+    "key": "of all time",
+    "value": "cały czas"
   },
   {
-    "key": "curly",
-    "value": "kręcony"
+    "key": "guess",
+    "value": "zgadywać"
   },
   {
-    "key": "dark",
-    "value": "ciemny"
+    "key": "wheels",
+    "value": "koła"
   },
   {
-    "key": "fair",
-    "value": "jasny"
+    "key": "sadly",
+    "value": "ze smutkiem"
   },
   {
-    "key": "foot",
-    "value": "stopa"
+    "key": "shop assistant",
+    "value": "pracownik sklepu"
   },
   {
-    "key": "gallery",
-    "value": "galeria"
+    "key": "want",
+    "value": "chcieć"
   },
   {
-    "key": "grey",
-    "value": "szary"
+    "key": "certainly",
+    "value": "z pewnością"
   },
   {
-    "key": "look like",
-    "value": "wyglądać jak"
+    "key": "what about",
+    "value": "co myślisz o"
   },
   {
-    "key": "moustache",
-    "value": "wąsy"
+    "key": "that sounds great",
+    "value": "to brzmi świetnie"
   },
   {
-    "key": "mouth",
-    "value": "usta"
+    "key": "a pair of",
+    "value": "para"
   },
   {
-    "key": "no way",
-    "value": "nie ma mowy"
+    "key": "digital camera",
+    "value": "aparat cyfrowy"
   },
   {
-    "key": "science museum",
-    "value": "muzeum nauki"
+    "key": "glasses",
+    "value": "okulary"
   },
   {
-    "key": "summary",
-    "value": "podsumowanie"
+    "key": "lunchbox",
+    "value": "śniadaniówka"
   },
   {
-    "key": "top model",
-    "value": "top modelka"
+    "key": "trainers",
+    "value": "buty sportowe"
   },
   {
-    "key": "wavy",
-    "value": "faliste"
+    "key": "handbag",
+    "value": "torebka"
   },
   {
-    "key": "screen",
-    "value": "ekran"
+    "key": "jeans",
+    "value": "dżinsy"
   },
   {
-    "key": "straight",
-    "value": "prosty"
+    "key": "mobile phone",
+    "value": "telefon komórkowy"
+  },
+  {
+    "key": "roller skates",
+    "value": "wrotki"
+  },
+  {
+    "key": "skateboard",
+    "value": "deskorolka"
+  },
+  {
+    "key": "schoolbag",
+    "value": "plecak szkolny"
+  },
+  {
+    "key": "picture",
+    "value": "obrazek"
   }
+
 ]
