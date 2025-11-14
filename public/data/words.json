@@ -1,103 +1,102 @@
 [
   {
-    "key": "fabulous",
-    "value": "wspaniały"
+    "key": "activity",
+    "value": "czynność"
   },
   {
-    "key": "kindergarten",
-    "value": "przedszkole"
+    "key": "at all",
+    "value": "wogóle"
   },
   {
-    "key": "still",
-    "value": "ciągle"
+    "key": "charity",
+    "value": "organizacja charytatywna"
   },
   {
-    "key": "baby things",
-    "value": "zabawki dla małych dzieci"
+    "key": "dance",
+    "value": "taniec"
   },
   {
-    "key": "of all time",
-    "value": "cały czas"
+    "key": "elbows",
+    "value": "łokcie"
   },
   {
-    "key": "guess",
-    "value": "zgadywać"
+    "key": "even",
+    "value": "nawet"
   },
   {
-    "key": "wheels",
-    "value": "koła"
+    "key": "fast",
+    "value": "szybko"
   },
   {
-    "key": "sadly",
-    "value": "ze smutkiem"
+    "key": "give a lift",
+    "value": "podwieźć kogoś"
   },
   {
-    "key": "shop assistant",
-    "value": "pracownik sklepu"
+    "key": "incredible",
+    "value": "niesamowite"
   },
   {
-    "key": "want",
-    "value": "chcieć"
+    "key": "knees",
+    "value": "kolana"
   },
   {
-    "key": "certainly",
-    "value": "z pewnością"
+    "key": "language",
+    "value": "język"
   },
   {
-    "key": "what about",
-    "value": "co myślisz o"
+    "key": "most",
+    "value": "najbardziej"
   },
   {
-    "key": "that sounds great",
-    "value": "to brzmi świetnie"
+    "key": "paint",
+    "value": "malować"
   },
   {
-    "key": "a pair of",
-    "value": "para"
+    "key": "play basketball",
+    "value": "grać w koszykówkę"
   },
   {
-    "key": "digital camera",
-    "value": "aparat cyfrowy"
+    "key": "play football",
+    "value": "grać w piłkę nożną"
   },
   {
-    "key": "glasses",
-    "value": "okulary"
+    "key": "ride a bike",
+    "value": "jeździć na rowerze"
   },
   {
-    "key": "lunchbox",
-    "value": "śniadaniówka"
+    "key": "ride a horse",
+    "value": "jeździć konno"
   },
   {
-    "key": "trainers",
-    "value": "buty sportowe"
+    "key": "run",
+    "value": "biegać"
   },
   {
-    "key": "handbag",
-    "value": "torebka"
+    "key": "show",
+    "value": "pokazać"
   },
   {
-    "key": "jeans",
-    "value": "dżinsy"
+    "key": "sing",
+    "value": "śpiewać"
   },
   {
-    "key": "mobile phone",
-    "value": "telefon komórkowy"
+    "key": "snowboard",
+    "value": "deska snowboardowa"
   },
   {
-    "key": "roller skates",
-    "value": "wrotki"
+    "key": "suprise",
+    "value": "niespodzianka"
   },
   {
-    "key": "skateboard",
-    "value": "deskorolka"
+    "key": "swim",
+    "value": "pływać"
   },
   {
-    "key": "schoolbag",
-    "value": "plecak szkolny"
+    "key": "think",
+    "value": "myśleć"
   },
   {
-    "key": "picture",
-    "value": "obrazek"
+    "key": "whistle",
+    "value": "gwizdać"
   }
-
 ]
