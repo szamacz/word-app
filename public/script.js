@@ -5,6 +5,11 @@ import { inject } from '@vercel/analytics';
 inject();
 
 document.addEventListener('DOMContentLoaded', () => {
+    // Disable context menu
+    document.addEventListener('contextmenu', (event) => {
+        event.preventDefault();
+    });
+
     const questionElement = document.getElementById('question');
     const answerInput = document.getElementById('answer');
     const submitButton = document.getElementById('submit');
