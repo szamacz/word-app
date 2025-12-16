@@ -1,102 +1,138 @@
 [
   {
-    "key": "activity",
-    "value": "czynność"
+    "key": "auntie",
+    "value": "ciocia"
   },
   {
-    "key": "at all",
-    "value": "wogóle"
+    "key": "breakfast",
+    "value": "śniadanie"
   },
   {
-    "key": "charity",
-    "value": "organizacja charytatywna"
+    "key": "brother",
+    "value": "brat"
   },
   {
-    "key": "dance",
-    "value": "taniec"
+    "key": "come on in",
+    "value": "chodź do środka"
   },
   {
-    "key": "elbows",
-    "value": "łokcie"
+    "key": "cousin",
+    "value": "kuzyn"
+  },
+    {
+    "key": "cute",
+    "value": "słodki"
   },
   {
-    "key": "even",
-    "value": "nawet"
+    "key": "daughter",
+    "value": "córka"
   },
   {
-    "key": "fast",
-    "value": "szybko"
+    "key": "don't worry",
+    "value": "nie przejmuj się"
   },
   {
-    "key": "give a lift",
-    "value": "podwieźć kogoś"
+    "key": "excellent",
+    "value": "idealnie"
   },
   {
-    "key": "incredible",
-    "value": "niesamowite"
+    "key": "family tree",
+    "value": "drzewo rodzinne"
   },
   {
-    "key": "knees",
-    "value": "kolana"
+    "key": "father",
+    "value": "ojciec"
   },
   {
-    "key": "language",
-    "value": "język"
+    "key": "get",
+    "value": "dostać"
   },
   {
-    "key": "most",
-    "value": "najbardziej"
+    "key": "get down",
+    "value": "zejdź na dół"
   },
   {
-    "key": "paint",
-    "value": "malować"
+    "key": "grandfather",
+    "value": "dziadek"
   },
   {
-    "key": "play basketball",
-    "value": "grać w koszykówkę"
+    "key": "grandmother",
+    "value": "babcia"
   },
   {
-    "key": "play football",
-    "value": "grać w piłkę nożną"
+    "key": "hope",
+    "value": "nadzieja"
   },
   {
-    "key": "ride a bike",
-    "value": "jeździć na rowerze"
+    "key": "hot chocolate",
+    "value": "gorąca czekolada"
   },
   {
-    "key": "ride a horse",
-    "value": "jeździć konno"
+    "key": "hungry",
+    "value": "głodny"
   },
   {
-    "key": "run",
-    "value": "biegać"
+    "key": "husband",
+    "value": "mąż"
   },
   {
-    "key": "show",
-    "value": "pokazać"
+    "key": "mother",
+    "value": "mama"
   },
   {
-    "key": "sing",
-    "value": "śpiewać"
+    "key": "nephew",
+    "value": "bratanek/siostrzeniec"
   },
   {
-    "key": "snowboard",
-    "value": "deska snowboardowa"
+    "key": "niece",
+    "value": "bratanek"
   },
   {
-    "key": "suprise",
-    "value": "niespodzianka"
+    "key": "sister",
+    "value": "siostra"
   },
   {
-    "key": "swim",
-    "value": "pływać"
+    "key": "ski",
+    "value": "narta"
   },
   {
-    "key": "think",
-    "value": "myśleć"
+    "key": "skier",
+    "value": "narciarz"
   },
   {
-    "key": "whistle",
-    "value": "gwizdać"
+    "key": "son",
+    "value": "syn"
+  },
+  {
+    "key": "take",
+    "value": "wziąć"
+  },
+  {
+    "key": "toys",
+    "value": "zabawki"
+  },
+  {
+    "key": "uncle",
+    "value": "wujek"
+  },
+  {
+    "key": "use",
+    "value": "używać"
+  },
+  {
+    "key": "watch out",
+    "value": "uważaj"
+  },
+  {
+    "key": "wife",
+    "value": "żona"
+  },
+  {
+    "key": "winter house",
+    "value": "dom zimowy"
+  },
+  {
+    "key": "you know what",
+    "value": "wiesz co"
   }
 ]
