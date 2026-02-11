@@ -1,138 +1,94 @@
 [
   {
-    "key": "auntie",
-    "value": "ciocia"
+    "key": "armchair",
+    "value": "fotel"
   },
   {
-    "key": "breakfast",
-    "value": "śniadanie"
+    "key": "attic",
+    "value": "sufit"
   },
   {
-    "key": "brother",
-    "value": "brat"
+    "key": "bath",
+    "value": "wanna"
+  }, 
+  {
+    "key": "bathroom",
+    "value": "łazienka"
   },
   {
-    "key": "come on in",
-    "value": "chodź do środka"
+    "key": "bed",
+    "value": "łóżko"
   },
   {
-    "key": "cousin",
-    "value": "kuzyn"
+    "key": "bedroom",
+    "value": "sypialnia"
+  }, 
+  {
+    "key": "come down",
+    "value": "zejść na dół"
   },
-    {
-    "key": "cute",
-    "value": "słodki"
+ {
+  "key": "dream house",
+  "value": "dom marzeń"
+ },
+  {
+    "key": "fridge",
+    "value": "lodówka"
   },
   {
-    "key": "daughter",
-    "value": "córka"
+    "key": "garage",
+    "value": "garaż"
   },
   {
-    "key": "don't worry",
-    "value": "nie przejmuj się"
+    "key": "garden",
+    "value": "ogród"
   },
   {
-    "key": "excellent",
-    "value": "idealnie"
+    "key": "hall",
+    "value": "przedpokój"
   },
   {
-    "key": "family tree",
-    "value": "drzewo rodzinne"
+    "key": "have a look",
+    "value": "spójrz"
   },
   {
-    "key": "father",
-    "value": "ojciec"
+    "key": "kitchen",
+    "value": "kuchnia"
   },
   {
-    "key": "get",
-    "value": "dostać"
+    "key": "living room",
+    "value": "salon"
   },
   {
-    "key": "get down",
-    "value": "zejdź na dół"
+    "key": "memory",
+    "value": "wspomnienie"
   },
   {
-    "key": "grandfather",
-    "value": "dziadek"
+    "key": "noise",
+    "value": "hałas"
   },
   {
-    "key": "grandmother",
-    "value": "babcia"
+    "key": "outside",
+    "value": "na zewnątrz"
   },
   {
-    "key": "hope",
-    "value": "nadzieja"
+    "key": "roof",
+    "value": "dach"
   },
   {
-    "key": "hot chocolate",
-    "value": "gorąca czekolada"
+    "key": "scared",
+    "value": "przestraszony"
   },
   {
-    "key": "hungry",
-    "value": "głodny"
+    "key": "stairs",
+    "value": "schody"
   },
   {
-    "key": "husband",
-    "value": "mąż"
+    "key": "stay together",
+    "value": "zostać razem"
   },
   {
-    "key": "mother",
-    "value": "mama"
-  },
-  {
-    "key": "nephew",
-    "value": "bratanek/siostrzeniec"
-  },
-  {
-    "key": "niece",
-    "value": "bratanek"
-  },
-  {
-    "key": "sister",
-    "value": "siostra"
-  },
-  {
-    "key": "ski",
-    "value": "narta"
-  },
-  {
-    "key": "skier",
-    "value": "narciarz"
-  },
-  {
-    "key": "son",
-    "value": "syn"
-  },
-  {
-    "key": "take",
-    "value": "wziąć"
-  },
-  {
-    "key": "toys",
-    "value": "zabawki"
-  },
-  {
-    "key": "uncle",
-    "value": "wujek"
-  },
-  {
-    "key": "use",
-    "value": "używać"
-  },
-  {
-    "key": "watch out",
-    "value": "uważaj"
-  },
-  {
-    "key": "wife",
-    "value": "żona"
-  },
-  {
-    "key": "winter house",
-    "value": "dom zimowy"
-  },
-  {
-    "key": "you know what",
-    "value": "wiesz co"
+    "key": "upstairs",
+    "value": "na górze"
   }
 ]
